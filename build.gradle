@@ -1,5 +1,7 @@
 import io.pivotal.pal.tracker.gradlebuild.DependenciesGraphPlugin
 
+// foobar
+
 buildscript {
     ext {
         springBootVersion = "1.5.7.RELEASE"
